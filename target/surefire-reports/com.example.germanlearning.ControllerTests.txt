@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.germanlearning.ControllerTests
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.548 s -- in com.example.germanlearning.ControllerTests
